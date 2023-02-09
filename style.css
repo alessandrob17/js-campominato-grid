@@ -1,6 +1,11 @@
 #grid {
     display: flex;
     flex-wrap: wrap;
+        
+  }
+
+  .container{
+    text-align: center;
   }
   
   .square {
